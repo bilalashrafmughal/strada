@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.717f53d2.css",
+    "main.js": "/static/js/main.2813829a.js",
+    "static/media/Budget_Calendar.mp4": "/static/media/Budget_Calendar.0b2c96ccee341fb09023.mp4",
+    "static/media/PMS.gif": "/static/media/PMS.9c4ea591b348e83f0e89.gif",
+    "static/media/Invoices.mp4": "/static/media/Invoices.a2fbf2df86e522b88dc6.mp4",
+    "static/media/Puzzle.gif": "/static/media/Puzzle.7c38049a9b6f1f146f73.gif",
+    "static/media/homepage-2@2x.png": "/static/media/homepage-2@2x.059a481ff101c0fd0a7e.png",
+    "static/media/COIs.mp4": "/static/media/COIs.0171ca36f3d091a0e091.mp4",
+    "static/media/focus_on_matter.png": "/static/media/focus_on_matter.531affd0ccdc0df5ddd3.png",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.0fcd45fbfc419c42c8b9.ttf",
+    "static/media/contact.png": "/static/media/contact.92dd25ff38f2cf516c51.png",
+    "static/media/unpaid_charges.png": "/static/media/unpaid_charges.dc9d6d11f3e578755940.png",
+    "static/media/AvenirNextLTPro-Bold.otf": "/static/media/AvenirNextLTPro-Bold.711a4eb654bf1139f123.otf",
+    "static/media/invoicing.png": "/static/media/invoicing.9f3f77c44b995ae88503.png",
+    "static/media/cois.png": "/static/media/cois.a771d6070f75655cf460.png",
+    "static/media/upcoming_event.png": "/static/media/upcoming_event.e871962ed99165dd65ee.png",
+    "static/media/level_up.png": "/static/media/level_up.f04d5e960eb5294ab9d1.png",
+    "index.html": "/index.html",
+    "main.717f53d2.css.map": "/static/css/main.717f53d2.css.map",
+    "main.2813829a.js.map": "/static/js/main.2813829a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.717f53d2.css",
+    "static/js/main.2813829a.js"
+  ]
+}
